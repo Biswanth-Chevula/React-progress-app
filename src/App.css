@@ -1,0 +1,12 @@
+.App {
+  background-color: #f8f9fa;
+  min-height: 100vh;
+}
+
+.card-body > * + * {
+  margin-top: 1rem;
+}
+
+.maincontainer {
+  margin-top: 45px;
+}
